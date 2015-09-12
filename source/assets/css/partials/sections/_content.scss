@@ -1,0 +1,126 @@
+body{background-color: darken($c_b, 42%);}
+.main{
+	padding: 70px 20px;
+	@extend .cf;
+	h1{
+		font-size: 30px;
+		text-transform: uppercase;
+		font-weight: 700;
+		letter-spacing: 5px;
+		padding: 0px 0px 20px 0px;
+		color: #fff;
+	}
+	p{
+		max-width: 350px;
+		font-size: 14px;
+		line-height: 2;
+		color: #fff;
+		padding: 0px 0px 20px 0px;
+	}
+	ul{
+		list-style: square;
+		padding: 0px 0px 0px 20px;
+		li{
+			font-size: 14px;
+			line-height: 2;
+			color: #fff;
+			a{
+				font-size: 14px;
+				margin: 0px 20px 0px 0px;
+				color: lighten($c_b, 15%);
+				text-decoration: none;
+				&:last-of-type{margin-right: 0px;}
+				@include easing(350ms);
+				&:hover{
+				@include easing(350ms);
+					color: #fff;
+				}
+			}
+		}
+	}
+	.noticeme{
+		background-color: rgba(122, 74, 205, 0.1);
+		padding: 20px;
+		border: 1px solid lighten($c_b, 15%);
+		@include border-radius(5px);
+		p{color: lighten($c_b, 15%);max-width:100%;font-size: 16px;font-weight:300;padding: 0px;}
+	}
+}
+.callout{
+	padding: 0px 20px 70px 20px;
+	@extend .cf;
+	.block{
+		background-color: darken($c_b, 45%);
+		@include border-radius(5px);
+		border: 1px solid lighten($c_b, 15%);
+		header{
+			padding: 20px;
+			border-bottom: 1px solid lighten($c_b, 15%);
+			background-color: darken($c_b, 45%);
+			@include border-radius-top(5px);
+			@extend .cf;
+			h2,
+			h1{
+				float: left;
+				font-size: 12px;
+				text-transform: uppercase;
+				font-weight: 700;
+				color: #fff;
+			}
+			h2{
+				float: right;
+				color: lighten($c_b, 15%);
+			}
+		}
+		p{
+			font-size: 14px;
+			line-height: 2;
+			color: lighten($c_b, 15%);
+			padding: 20px;
+		}
+		button.cta,
+		a.cta{
+			display: block;
+			margin: 0px 20px 20px 20px;
+			text-decoration: none;
+			width: 200px;
+			color: #fff;
+			padding: 10px;
+			text-align: center;
+			text-transform: uppercase;
+			font-weight: 700;
+			font-size: 12px;
+			letter-spacing: 3px;
+			border: 1px solid darken($c_b, 20%);
+			@include border-radius(5px);
+			@include background-gradient(lighten($c_b, 10%), darken($c_b, 10%));
+			&:hover{
+				@include background-gradient($c_b, darken($c_b, 20%));
+			}
+		}
+		form{
+			display: block;
+			@extend .cf;
+		}
+		input{
+			display: block;
+			padding: 10px;
+			@include border-radius(5px);
+			border: 0px;
+			width: 45%;
+			margin-left: 20px;
+			float: left;
+			color: darken($c_b, 10%);
+		}
+		button.cta{
+			@include background-gradient(transparent, transparent);
+			border: 1px solid #fff;
+			float: right;
+			width: 40%;
+			cursor: pointer;
+			&:hover{
+				@include background-gradient(rgba(122, 74, 205, 0.1), rgba(122, 74, 205, 0.1));
+			}
+		}
+	}
+}

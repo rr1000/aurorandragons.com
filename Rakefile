@@ -1,15 +1,15 @@
 desc "Build the site from source to build"
-task :build do
+task :b do
   status = system("middleman build --clean")
   puts status ? "OK" : "FAILED"
 end
 
 desc "Run middleman server"
-task :run do
-  system("middleman server")
+task :r do
+  system("middleman server -p 2112")
 end
 
 desc "Watch and compress Sass"
-task :sass do
+task :s do
   system("cd source/assets/css && sass --watch styles.scss:styles.css --style compressed")
 end

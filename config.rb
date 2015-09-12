@@ -7,6 +7,8 @@ set :images_dir, 'assets/img'
 
 activate :directory_indexes
 
+set :build_dir, 'html'
+
 configure :build do
   activate :minify_css
   activate :minify_javascript
@@ -19,9 +21,6 @@ set :markdown, :fenced_code_blocks => true, :smartypants => true, :tables => tru
 
 activate :syntax, :wrap => true
 
-set :url_root, 'XXXXX.com'
+set :url_root, 'http://aurorandragons.com/'
 activate :search_engine_sitemap
 page "/sitemap.xml", :layout => false
-
-activate :blog do |blog|
-end

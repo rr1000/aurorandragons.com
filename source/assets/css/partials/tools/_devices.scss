@@ -1,4 +1,18 @@
+@media handheld, only screen and (max-width: 975px){
+	.main-footer{padding: 20px;}
+}
 @media handheld, only screen and (max-width: 767px){
+	.main{
+		padding: 50px 20px;
+		.noticeme{
+			margin-top: 20px;
+		}
+	}
+	.callout{
+		.block{
+			margin: 0px 0px 20px 0px;
+		}
+	}
 	.grid{
 		width: 100%;
 		min-width: 0;
@@ -12,9 +26,40 @@
 		float: none;
 		margin-left: 0px;
 		margin-right: 0px;
-		margin-top: 10px;
-		margin-bottom: 10px;
-		padding-left: 20px;
-		padding-right: 20px;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+}
+@media handheld, only screen and (max-width: 580px){
+	.callout{.block{input{width: 35%;}}}
+	.main-header{
+		a.logo{float: none;}
+		nav{
+			float: none;
+			padding: 20px 0px 0px 0px;
+			a{
+				display: block;
+				margin-left: 0px;
+				font-weight: 700;
+				font-size: 12px;
+				margin: 0px 0px 10px 0px;
+				color: darken($c_b, 45%);
+				&:last-of-type{margin-bottom: 0px;}
+			}
+		}
+	}
+	.main-footer{
+		nav{
+			a{
+				display: block;
+				margin-left: 0px;
+				font-weight: 700;
+				font-size: 12px;
+				margin: 0px 0px 10px 0px;
+				&:last-of-type{margin-bottom: 0px;}
+			}
+		}
 	}
 }
