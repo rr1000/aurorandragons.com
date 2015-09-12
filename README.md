@@ -1,16 +1,5 @@
-# Time Sensitive Boilerplate
+# todo
 
-This boilerplate contains Middleman, Rake, Sass, Syntax highlighting and many other features that are often common in websites and prototypes.
-
-**Installation:**
-
-- `$ bundle install`
-- `$ rake run`
-
-**Sass:**
-
-- `$ rake sass`
-
-**Build from source:**
-
-- `$ rake build`
+- `rake b` - to build static site
+- `rake r` - to run middleman server (port 2112)
+- `rake s` - to compile sass
