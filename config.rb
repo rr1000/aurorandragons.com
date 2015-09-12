@@ -7,7 +7,7 @@ set :images_dir, 'assets/img'
 
 activate :directory_indexes
 
-set :build_dir, 'html'
+set :build_dir, '../html'
 
 configure :build do
   activate :minify_css
