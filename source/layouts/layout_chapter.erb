@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+	<%= partial "partials/head" %>
+	<body class="<%= page_classes %>">
+		<%= partial "partials/header" %>
+		<div class="grid">
+			<div class="chapter">
+				<%= yield %>
+			</div>
+		</div>
+		<%= javascript_include_tag "http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js", "main" %>
+	</body>
+</html>

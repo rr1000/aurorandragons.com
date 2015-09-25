@@ -124,3 +124,65 @@ body{background-color: darken($c_b, 42%);}
 		}
 	}
 }
+.chapter{
+	padding: 70px 20px;
+	max-width: 70%;
+	margin: auto;
+	color: #fff;
+	strong{font-weight: 700;}
+	em{font-style: italic;}
+	p{
+		line-height: 2;
+		padding: 0px 0px 20px 0px;
+		font-size: 14px;
+	}
+	h1,h2,h3,h4{
+		font-weight: 700;
+		padding: 0px 0px 20px 0px;
+		line-height: 1.5;
+	}
+	h1{font-size: 22px;}
+	h2{font-size: 20px;}
+	h3{font-size: 18px;}
+	h4{font-size: 16px;}
+	ul{
+		list-style: square;
+		padding: 0px 0px 0px 20px;
+		li{
+			font-size: 14px;
+			line-height: 2;
+			color: #fff;
+			a{
+				font-size: 14px;
+				margin: 0px 20px 0px 0px;
+				color: lighten($c_b, 15%);
+				text-decoration: none;
+				&:last-of-type{margin-right: 0px;}
+				@include easing(350ms);
+				&:hover{
+				@include easing(350ms);
+					color: #fff;
+				}
+			}
+		}
+	}
+}
+a.button{
+	display: inline-block;
+	margin: 0px 0px 20px 0px;
+	text-decoration: none;
+	max-width: 70%;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 12px;
+	letter-spacing: 3px;
+	border: 1px solid darken($c_b, 20%);
+	@include border-radius(5px);
+	@include background-gradient(lighten($c_b, 10%), darken($c_b, 10%));
+	&:hover{
+		@include background-gradient($c_b, darken($c_b, 20%));
+	}
+}
