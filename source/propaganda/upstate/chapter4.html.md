@@ -1,9 +1,11 @@
 ---
-title: Chapter 4 - Bring A Photo Of Their Faces
+title: Upstate Chapter 4 - Bring A Photo Of Their Faces
 layout: layout_chapter
 ---
 
 <a href="/propaganda/upstate">Index</a>
+
+<h1 class="story-title">Upstate</h1>
 
 <a href="/upstate/chapter3" class="button">Previous: Chapter 3 - The Superior Warfare of SkyPrincess FairySparkle</a>
 

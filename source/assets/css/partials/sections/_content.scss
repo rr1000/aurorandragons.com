@@ -125,7 +125,7 @@ body{background-color: darken($c_b, 42%);}
 	}
 }
 .chapter{
-	padding: 70px 20px;
+	padding: 20px 20px;
 	max-width: 70%;
 	margin: auto;
 	color: #fff;
@@ -142,6 +142,7 @@ body{background-color: darken($c_b, 42%);}
 		line-height: 1.5;
 	}
 	h1{font-size: 22px;}
+	h1.story-title
 	h2{font-size: 20px;}
 	h3{font-size: 18px;}
 	h4{font-size: 16px;}

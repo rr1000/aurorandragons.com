@@ -1,9 +1,11 @@
 ---
-title: Chapter 1 - Wake Up
+title: Upstate Chapter 1 - Wake Up
 layout: layout_chapter
 ---
 
 <a href="/propaganda/upstate">Index</a>
+
+<h1 class="story-title">Upstate</h1>
 
 <a href="/propaganda/upstate/prologue" class="button">Previous: Prologue - The Grey Death</a>
 

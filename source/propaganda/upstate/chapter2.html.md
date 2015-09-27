@@ -1,9 +1,11 @@
 ---
-title: Chapter 2 - Where Did It All Go Wrong?
+title: Upstate Chapter 2 - Where Did It All Go Wrong?
 layout: layout_chapter
 ---
 
 <a href="/propaganda/upstate">Index</a>
+
+<h1 class="story-title">Upstate</h1>
 
 <a href="/upstate/chapter1" class="button">Previous: Chapter 1 - Wake Up</a>
 
