@@ -3,7 +3,11 @@ title: Chapter 1 - Wake Up
 layout: layout_chapter
 ---
 
-# Chapter 1
+<a href="/propaganda/upstate">Index</a>
+
+<a href="/propaganda/upstate/prologue" class="button">Previous: Prologue - The Grey Death</a>
+
+# Chapter 1 - Wake Up
 
 *Mercenaries are chasing me through the woods at night. If they find me, they’ll kill me.*
 
@@ -426,3 +430,5 @@ Jeremy puts his arm around her.
 “Just be careful they don’t give you one.”
 
 After the third round of drinks I can see pretty clearly that this couple wants to conclude their celebration in private. Kinda sucks to chug half a glass of good beer but I’m only being polite. If there’s one thing we’ve learned from living through the end of times, it’s that life is short, and you should enjoy yourself first.
+
+<a href="/propaganda/upstate/chapter2" class="button">Next: Chapter 2 - Where Did It All Go Wrong?</a>

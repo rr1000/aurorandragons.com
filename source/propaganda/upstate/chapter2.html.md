@@ -1,12 +1,15 @@
 ---
-title: Chapter 2
+title: Chapter 2 - Where Did It All Go Wrong?
 layout: layout_chapter
 ---
 
-<a href="/upstate/sections/chapter1" class="button">Previous: Read Chapter One</a>
+<a href="/propaganda/upstate">Index</a>
 
-# Chapter 2: Where Did It All Go Wrong?
-## A week after meeting the Dragon I wake from my bed to the noise of a stranger in my house in the middle of the night.
+<a href="/upstate/chapter1" class="button">Previous: Chapter 1 - Wake Up</a>
+
+# Chapter 2 - Where Did It All Go Wrong?
+
+A week after meeting the Dragon I wake from my bed to the noise of a stranger in my house in the middle of the night.
 
 This time I grab the gun first.
 
@@ -350,4 +353,4 @@ I get up from the couch and extend my hand.
 
 Just as I walk outside the helicopter settles on the ground like snow on a pillow. The doors stay shut, I stay standing. At this moment I wonder: could I leave? Could I find some other protection? A personal bodyguard? It would be expensive, but I could afford it, maybe, barely. But then I’ll be looking over my shoulder for the rest of my life. Same with the Dragons. I guess I don’t really have a choice after all.
 
-<a href="/upstate/sections/chapter3" class="button">Next: Read Chapter Three</a>
+<a href="/propaganda/upstate/chapter3" class="button">Next: Chapter 3 - The Superior Warfare of SkyPrincess FairySparkle</a>

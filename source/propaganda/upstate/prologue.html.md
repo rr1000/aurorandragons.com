@@ -3,6 +3,8 @@ title: Prologue  - The Gray Death
 layout: layout_chapter
 ---
 
+<a href="/propaganda/upstate">Index</a>
+
 # Prologue - The Gray Death
 
 The Gray Death took light from our cheeks and hope from our eyes. The disease crawled from organ to organ, prolonging the suffering until the body could take no more. The poor died in droves while the rich staved off the worst, but soon it was clear that none of us stood a chance against nature’s slow boil.
@@ -26,3 +28,5 @@ Imagine how I felt when the Dragons woke me at my home to offer me a job.
 I don't expect you to forgive me for what I've done. You can call me a monster or a murderer - I've heard it all before. All I ask is that you hear me out to the end.
 
 The capacity for evil lives in us all.
+
+<a href="/propaganda/upstate/chapter1" class="button">Next: Chapter 1 - Wake Up</a>
