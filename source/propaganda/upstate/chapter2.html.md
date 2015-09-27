@@ -7,7 +7,7 @@ layout: layout_chapter
 
 <h1 class="story-title">Upstate</h1>
 
-<a href="/upstate/chapter1" class="button">Previous: Chapter 1 - Wake Up</a>
+<a href="/propaganda/upstate/chapter1" class="button">Previous: Chapter 1 - Wake Up</a>
 
 # Chapter 2 - Where Did It All Go Wrong?
 

@@ -7,9 +7,10 @@ layout: layout_chapter
 
 <h1 class="story-title">Upstate</h1>
 
-<a href="/upstate/chapter3" class="button">Previous: Chapter 3 - The Superior Warfare of SkyPrincess FairySparkle</a>
+<a href="/propaganda/upstate/chapter3" class="button">Previous: Chapter 3 - The Superior Warfare of SkyPrincess FairySparkle</a>
 
 # Chapter 4 - Bring A Photo Of Their Faces
+
 [YOU ARE DEHYDRATED!  DRINK WATER IMMEDIATELY!]
 
 My Bionet lurches me awake at four in the morning.  My brain is murder and if I had any more energy I would curse the world’s most boring engineer that made it so it says you’re gonna have a hangover AFTER it lets you go to sleep.

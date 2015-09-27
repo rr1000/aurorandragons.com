@@ -5,6 +5,8 @@ layout: layout_chapter
 
 <a href="/propaganda/upstate">Index</a>
 
+<h1 class="story-title">Upstate</h1>
+
 # Prologue - The Gray Death
 
 The Gray Death took light from our cheeks and hope from our eyes. The disease crawled from organ to organ, prolonging the suffering until the body could take no more. The poor died in droves while the rich staved off the worst, but soon it was clear that none of us stood a chance against nature’s slow boil.

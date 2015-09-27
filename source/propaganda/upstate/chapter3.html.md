@@ -7,7 +7,7 @@ layout: layout_chapter
 
 <h1 class="story-title">Upstate</h1>
 
-<a href="/upstate/chapter2" class="button">Previous: Chapter 2 - Where Did It All Go Wrong?</a>
+<a href="/propaganda/upstate/chapter2" class="button">Previous: Chapter 2 - Where Did It All Go Wrong?</a>
 
 # Chapter 3 - The Superior Warfare of SkyPrincess FairySparkle
 
