@@ -78,12 +78,6 @@ body{background-color: darken($c_b, 42%);}
 			color: lighten($c_b, 15%);
 			padding: 20px;
 		}
-		ul li{
-			font-size: 14px;
-			line-height: 2;
-			color: lighten($c_b, 15%);
-			padding: 20px;
-		}
 		button.cta,
 		a.cta{
 			display: block;
@@ -178,6 +172,12 @@ body{background-color: darken($c_b, 42%);}
 			}
 		}
 	}
+}
+ul.signup-reasons li{
+	font-size: 14px;
+	line-height: 2;
+	color: lighten($c_b, 15%);
+	padding: 20px;
 }
 a.button{
 	display: inline-block;
