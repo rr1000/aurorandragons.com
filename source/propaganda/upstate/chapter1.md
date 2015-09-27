@@ -1,30 +1,15 @@
 ---
-title: Chapter 1
+title: Chapter 1 - Wake Up
 layout: layout_chapter
 ---
 
 # Chapter 1
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+*Mercenaries are chasing me through the woods at night. If they find me, they’ll kill me.*
 
-# Header 1
+*I see a house and go in to hide, but the mercs are in there too!*
 
-## Header 2
-
-### Header 3
-
-### Header 4
-
-- This
-- Is
-- A
-- List
-
-Mercenaries are chasing me through the woods at night. If they find me, they’ll kill me.
-
-I see a house and go in to hide, but the mercs are in there too!
-
-I run out the back and the mercenaries are having a barbecue on the patio. They’re drinking beer and a few are swimming in the pool. One at the grill notices me and says, “Hey, you want two burgers or three?”
+*I run out the back and the mercenaries are having a barbecue on the patio. They’re drinking beer and a few are swimming in the pool. One at the grill notices me and says, “Hey, you want two burgers or three?”*
 
 BAM. BAM. BAM.
 
