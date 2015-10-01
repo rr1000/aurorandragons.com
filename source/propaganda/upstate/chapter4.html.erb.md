@@ -329,8 +329,7 @@ They come here to do the impossible.
 
 To become legends in their lifetimes.
 
-
-
+<%= tag :img, :src => "/assets/adflag_solo.png", :class => "chapterflag" %>
 
 Welcome to Aurora.*
 
