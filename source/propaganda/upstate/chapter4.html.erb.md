@@ -321,16 +321,16 @@ I wink at her.
 
 I head out to my car and send a message to Synthia asking if she can do lunch.  I wait for her to reply for a minute or two, and then I look back at the box in my passenger seat.  May as well get the pills over with.  I open it, and on the top is a thick sheet of paper with rounded corners and glossy text:
 
-*There’s work and there’s your life’s work.
+*There’s work and there’s your life’s work.*
 
-The kind of work you’re remembered for.  The kind of work that changes history, that gets inscribed on your tombstone.  You can do that work as a Dragon. People don’t come here to take it easy.
+*The kind of work you’re remembered for.  The kind of work that changes history, that gets inscribed on your tombstone.  You can do that work as a Dragon. People don’t come here to take it easy.*
 
-They come here to do the impossible.
+*They come here to do the impossible.*
 
-To become legends in their lifetimes.
+*To become legends in their lifetimes.*
 
 <%= tag :img, :src => "/assets/adflag_solo.png", :class => "chapterflag" %>
 
-Welcome to Aurora.*
+*Welcome to Aurora.*
 
 ## Next: Chapter 5 - Done Deal (10/5/15)
